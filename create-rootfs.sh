@@ -35,4 +35,4 @@ else
   echo "Warning, Wine Not Found."
 fi
 
-./cat-rat-pkgs.sh "Windroid-RootFs" "($GIT_SHORT_SHA)" "rootfs" "$1" $ROOTFS_PKGS
+./cat-rat-pkgs.sh "MiceWine-RootFs" "($GIT_SHORT_SHA)" "rootfs" "$1" $ROOTFS_PKGS
